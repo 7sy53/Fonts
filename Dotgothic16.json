@@ -1,14 +1,14 @@
 {
 "spec": 1,
 "name": "Fonts",
-"previewText": "フォント",
+"previewText": "f",
 "main": {
       "ABCGintoNord-ExtraBold": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
-      "ggsans-Bold": "https://github.com/7sy53/Fonts/blob/2e3c92ed0837b771821b36522a0a4ba77010ba04/KILLlaKILL_officialfont.otf?raw=1",
+      "ggsans-Bold": "https://github.com/7sy53/Fonts/blob/main/KILLlaKILL_officialfont.otf?raw=1",
       "ggsans-BoldItalic": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
       "ggsans-ExtraBold": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
       "ggsans-ExtraBoldItalic": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
-      "ggsans-Medium": "https://github.com/7sy53/Fonts/blob/2e3c92ed0837b771821b36522a0a4ba77010ba04/KILLlaKILL_officialfont.otf?raw=1",
+      "ggsans-Medium": "https://github.com/7sy53/Fonts/blob/main/KILLlaKILL_officialfont.otf?raw=1",
       "ggsans-MediumItalic": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
       "ggsans-Normal": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
       "ggsans-NormalItalic": "https://github.com/fontworks-fonts/DotGothic16/blob/master/fonts/ttf/DotGothic16-Regular.ttf?raw=1",
